@@ -1,0 +1,21 @@
+ 
+
+  .wrap{
+    scroll-behavior: auto !important;
+   
+  }
+
+
+  .drag::-webkit-scrollbar{
+    display: none;
+  }
+
+  .vn_mouse{
+    cursor: url('./img/vn_mouse.svg'),auto!important;
+  }
+
+
+  .us_mouse{
+    cursor: url('./img/us_mouse.svg'),auto!important;
+  }
+  

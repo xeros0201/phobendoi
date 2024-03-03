@@ -1,0 +1,86 @@
+{
+    "email":"info@phobendoi.art",
+    "phone":"(+84) 97 411 0770",
+    "phobendoi":"Phố bên đồi",
+    "studio":"CREATIVE STUDIO",
+    "address":"ĐÀ LẠT, LÂM ĐỒNG",
+    "office":"Văn phòng",
+    "city":"TP. HỒ CHÍ MINH",
+    "facebook":"facebook",
+    "ABOUT_US" :{
+        "title":"VỀ CHÚNG TÔI",
+        "subtitle":"Phố Bên Đồi là một công ty khởi nghiệp trong lĩnh vực công nghiệp văn hóa sáng tạo được thành lập vào năm 2016, Phố Bên Đồi đã tiên phong tạo ra một nền tảng kết nối các nguồn lực trong cộng đồng, xây dựng thương hiệu “Đà Lạt - Thành phố Nghệ thuật” thông qua các dự án nghệ thuật cộng đồng đa - liên ngành.",
+        "caption":"Được thành lập vào năm 2016, Phố Bên Đồi là đơn vị tiên phong trong việc tạo nên nền tảng kết nối và khuyến khích thể hiện nghệ thuật trong cộng đồng tại thành phố Đà Lạt.",
+        "button":"CÂU CHUYỆN CỦA CHÚNG TÔI",
+        "link":"/aboutus"
+      },
+    "SERVICE":{
+        "title":"DỊCH VỤ",
+        "subtitle":"Luôn Ưu Tiên Sự Phát Triển Bền Vững",
+        "caption":"Chúng tôi hướng đến mục tiêu phát triển bền vững Thành phố Đà Lạt với ngành công nghiệp sáng tạo, các hoạt động sáng tạo & nghệ thuật.",
+        "button":"XEM THÊM VỀ DỊCH VỤ",
+        "link":"/service",
+        "stage" : [
+          {
+              "title":"Creative Studio",
+              "subtitle1":"quảng bá nghệ thuật đương đại",
+              "subtitle2":"hub sáng tạo",
+              "subtitle3":"hệ thống giáo dục steam"
+              
+          },  
+          {
+              "title":"Sự Kiện",
+              "subtitle1":"quảng bá và tiếp cận khán giả",
+              "subtitle2":"tổ chức hoạt động nghệ thuật đa phương tiện"
+     
+          },  
+           {
+          "title":"Tư Vấn",
+          "subtitle1":"Hoạt động nghệ thuật cộng đồng",
+          "subtitle2":"Khuyến khích tinh thần sáng tạo"
+        
+           }
+  
+   
+  
+      ]
+ 
+      },
+    "TESTIMONIAL":{
+        "title":"các Đối tác",
+        "subtitle":"thương hiệu hợp tác, nhà tài trợ Của Chúng tôi"
+    },
+    "PROJECTS":{
+        "title":"các dự án",
+        "subtitle":"Từ Đà Lạt Đến Quốc Tế",
+        "caption":"Phố Bên Đồi rất vui được chia sẻ với mọi người các dự án trong lĩnh vực nghệ thuật-văn hóa mà chúng tôi đã thực hiện, cũng như những cột mốc đáng nhớ trong và ngoài nước từ 2016 đến nay.",
+        "detail":"xem chi tiết",
+        "all":"tất cả dự án"
+    },
+    "GALLERY":[
+        {
+          "title":"Dốc Nhà Làng",
+          "detail":"/project/0",
+          "bg":"bg-docnhalang"
+        },
+        {
+          "title":"Relive The Time",
+          "detail":"/project/1",
+          "bg":"bg-steam"
+        },
+        {
+          "title":"SmartCity+ ArtTech Fusion",
+          "detail":"/project/2",
+          "bg":"bg-artTech"
+        }],
+        "EVENT":{
+          "title":"sự kiện và hoạt động",
+          "subtitle":"Mở bán vé",
+          "subtitle2":"Sắp diễn ra"
+        },
+        "SHOP":{
+          "title":"SẢN phẩm từ studio",
+          "subtitle":"Phố Bên Đồi cùng cộng đồng kể chuyện và những ước mơ về Đà Lạt thông qua những sản phẩm văn hóa.",
+          "button":"xem tất cả"
+        }
+}

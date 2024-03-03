@@ -1,0 +1,112 @@
+ {
+  "email":"info@phobendoi.art",
+  "phone":"(+84) 97 411 0770",
+  "phobendoi":"Pho ben doi",
+  "studio":"CREATIVE STUDIO",
+  "address":"Da Lat, Lam Dong",
+  "office":"Office",
+  "city":"Ho Chi Minh city",
+  "facebook":"facebook",
+  "ABOUT_US" :{
+    "title":"ABOUT US",
+    "subtitle":"Established in 2016, Phố Bên Đồi is a start-up in the cultural and creative industry. Through multidisciplinary and interdisciplinary community art projects already completed, such as the exhibition at the Cau Dat ancient tea factory in 2018, the public art project Doc Nha Lang - Into Art Hill in 2019, the opening of Phố Bên Đồi Creative Studio - a new Dalat-based art & culture space in 2021, STEAM programs in partnership with STEMax, and other creative projects, our platform aims to connect resources in the community to develop the brand 'Da Lat - City of Art.'",
+    "caption":"Founded in 2016, Phố Bên Đồi is a pioneering entity in creating a platform for connecting and promoting artistic expression within the community in the city of Da Lat.",
+    "button":"ABOUT US",
+    "link":"/aboutus"
+  },
+  "SERVICE":{
+    "title":"SERVICE",
+    "subtitle":"Always Prioritizing Sustainable Development",
+    "caption":"We aim to achieve sustainable development for the city of Da Lat through the creative industry and various creative and artistic activities.",
+    "button":"MORE",
+    "link":"/service",
+    "stage" : [
+      {
+          "title":"Creative Studio",
+          "subtitle1":"Contemporary art",
+          "subtitle2":"Creative hub",
+          "subtitle3":"STEAM"
+          
+      },  
+      {
+          "title":"Event",
+          "subtitle1":"Promoting and engaging with the audience.",
+          "subtitle2":"Multimedia art activities." 
+ 
+      },  
+       {
+      "title":"Consultation",
+      "subtitle1":"Community art activities",
+      "subtitle2":"Encouraging creativity" 
+    
+       }
+
+
+
+  ],
+  "stageMB" : [
+    {
+        "title":"Studio",
+        "subtitle1":"Contemporary art",
+        "subtitle2":"Creative hub",
+        "subtitle3":"STEAM"
+        
+    },  
+    {
+        "title":"Event",
+        "subtitle1":"promoting and engaging with the audience",
+        "subtitle2":"Multimedia art activities"
+
+    },  
+     {
+    "title":"Consultation",
+    "subtitle1":"Community art activities",
+    "subtitle2":"Encouraging creativity"
+  
+     }
+
+
+
+]
+  },
+  "TESTIMONIAL":{
+    "title":"Partners",
+    "subtitle":"Collaborators, Our Sponsors"
+  },
+  "PROJECTS":{
+    "title":"projects",
+    "subtitle":"from Dalat to international",
+    "caption":"Phố Bên Đồi is delighted to share with everyone the art and cultural projects we have undertaken, as well as the remarkable milestones both domestically and internationally from 2016 to the present.",
+    "detail":"more detail",
+    "all":"view all"
+  },
+  "GALLERY":[
+  {
+    "title":"Doc Nha Lang Public Art Project",
+    "detail":"/project/0",
+    "bg":"bg-docnhalang"
+  },
+  {
+    "title":"Relive The Time",
+    "detail":"/project/1",
+    "bg":"bg-steam"
+  },
+  {
+    "title":"SmartCity+ ArtTech Fusion",
+    "detail":"/project/2",
+    "bg":"bg-artTech"
+  }
+
+  ],
+  "EVENT" :{
+    "title":"Events & Activities",
+    "subtitle":"Opening",
+    "subtitle2":"Coming"
+  },
+  "SHOP":{
+    "title":"Products from the studio",
+    "subtitle":"Phố Bên Đồi and the community narrate stories and dreams about Da Lat through cultural products.",
+    "button":"more"
+  }
+
+}
